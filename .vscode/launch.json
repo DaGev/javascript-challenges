@@ -12,7 +12,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/3-vegetarian-dinner/vd.js"
+            "program": "${workspaceFolder}/4-technical-books/index.js"
         }
     ]
 }

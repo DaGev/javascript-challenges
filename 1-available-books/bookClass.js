@@ -19,4 +19,4 @@ const Book = class {
     }
 }
 
-const book = new Book("Atlas Shrugged", "Rand", "29750843275", 5);
+export { Book };
